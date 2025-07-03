@@ -11,6 +11,11 @@
   </sub>
 </p>
 
+## 🆕 Main changes from the original
+
+- **Valid Bearer Authentication for Image Uploads:**  
+  This fork adds support for sending a valid Bearer token with image upload requests, enabling authenticated uploads to Strapi's media library directly from TinyMCE.
+
 <p align="center">Replaces the default Strapi WYSIWYG editor with a customized build of TinyMCE editor.</p>
 
 ## 👋 Intro
