@@ -6,7 +6,7 @@
   </a>
   <br />
   <sub>
-    Plugin forked by <a href="https://github.com/marianski.jacek">@marianski.jacek</a><br />
+    Plugin forked by <a href="https://github.com/jmarianski">@jmarianski</a><br />
     <strong>Forked from <a href="https://github.com/sklinet/strapi-plugin-tinymce">@sklinet/strapi-plugin-tinymce</a></strong>
   </sub>
 </p>
