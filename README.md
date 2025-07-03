@@ -1,8 +1,8 @@
 <h1 align="center">Strapi plugin TinyMCE</h1>
 
 <p align="center">
-  <a href="https://github.com/sklinet/strapi-plugin-tinymce">
-    <img src="https://img.shields.io/npm/v/@sklinet/strapi-plugin-tinymce?style=flat-square" alt="npm version" />
+  <a href="https://github.com/jmarianski/strapi-plugin-tinymce">
+    <img src="https://img.shields.io/npm/v/@jmarianski/strapi-plugin-tinymce?style=flat-square" alt="npm version" />
   </a>
   <br />
   <sub>
@@ -37,11 +37,11 @@ Inside your Strapi app, add the package:
 
 With `npm`:
 ```bash
-npm install @sklinet/strapi-plugin-tinymce
+npm install @jmarianski/strapi-plugin-tinymce
 ```
 With `yarn`:
 ```bash
-yarn add @sklinet/strapi-plugin-tinymce
+yarn add @jmarianski/strapi-plugin-tinymce
 ```
 
 In `config/plugins.js` file add:
