@@ -1,5 +1,16 @@
 <h1 align="center">Strapi plugin TinyMCE</h1>
 
+<p align="center">
+  <a href="https://github.com/sklinet/strapi-plugin-tinymce">
+    <img src="https://img.shields.io/npm/v/@sklinet/strapi-plugin-tinymce?style=flat-square" alt="npm version" />
+  </a>
+  <br />
+  <sub>
+    Plugin forked by <a href="https://github.com/marianski.jacek">@marianski.jacek</a><br />
+    <strong>Forked from <a href="https://github.com/sklinet/strapi-plugin-tinymce">@sklinet/strapi-plugin-tinymce</a></strong>
+  </sub>
+</p>
+
 <p align="center">Replaces the default Strapi WYSIWYG editor with a customized build of TinyMCE editor.</p>
 
 ## 👋 Intro
